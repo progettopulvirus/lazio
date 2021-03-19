@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_h_d}
 \alias{o3_max_h_d}
-\title{Tibble con i dati di o3_max_h_d per 19 stazioni della regione LAZIO}
+\title{Tibble con i dati di o3_max_h_d per 25 stazioni della regione LAZIO}
 \format{
-Un tibble con 8 colonne e 50646 osservazioni
+Un tibble con 8 colonne e 60058 osservazioni
 }
 \usage{
 o3_max_h_d
 }
 \description{
-Tibble con i dati di o3_max_h_d per 19 stazioni della regione LAZIO
+Tibble con i dati di o3_max_h_d per 25 stazioni della regione LAZIO
 }
 \keyword{datasets}

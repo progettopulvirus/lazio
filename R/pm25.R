@@ -1,6 +1,6 @@
-#' Tibble con i dati di pm25 per 15 stazioni della regione LAZIO
+#' Tibble con i dati di pm25 per 24 stazioni della regione LAZIO
 #'
-#' @format Un tibble con 8 colonne e 40998 osservazioni
+#' @format Un tibble con 8 colonne e 51034 osservazioni
 #'
 #' @usage
 #' pm25
